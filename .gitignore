@@ -1,0 +1,3 @@
+*.pyc
+external_examples/*
+rejected_gifs/*
