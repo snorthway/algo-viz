@@ -11,3 +11,7 @@ Merge Sort
 RanSaC (Random Sample Consensus) in 1D
 
 ![Animation of the RanSaC algorithm in one dimension](https://github.com/snorthway/algo-viz/blob/master/gifs/ransac_1d.gif)
+
+RanSaC in 2d
+
+![Animation of the RanSaC algorithm in two dimensions](https://github.com/snorthway/algo-viz/blob/master/gifs/ransac_2d.gif)
