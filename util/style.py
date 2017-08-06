@@ -4,6 +4,8 @@ class PlotStyle:
     BLUE = '#35D1AA' # loight blue
     RED = '#F73E5F' # read
     ORANGE = '#E98144' # oragne
+    GREEN = '#7BC280' # grean
+    BROWN = '#B08669' # brawn
 
     @staticmethod
     def apply(plot_object):

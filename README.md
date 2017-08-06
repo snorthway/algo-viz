@@ -18,6 +18,7 @@ Watching animations is great for building intuition about how various algorithms
 
 ### RanSaC (Random Sample Consensus) in 1D
 
+
 <p align="center">
 <img src="https://github.com/snorthway/algo-viz/blob/master/gifs/ransac_1d.gif" alt="Animation of the RanSaC algorithm in one dimension"/>
 </p>
@@ -26,4 +27,10 @@ Watching animations is great for building intuition about how various algorithms
 
 <p align="center">
 <img src="https://github.com/snorthway/algo-viz/blob/master/gifs/ransac_2d.gif" alt="Animation of the RanSaC algorithm in two dimensions"/>
+</p>
+
+### K Nearest Neighbors
+
+<p align="center">
+  <img src="https://github.com/snorthway/algo-viz/blob/master/gifs/k_nearest_neighbors.gif" alt="Animation of the K Nearest Neighbors algorithm"/>
 </p>
